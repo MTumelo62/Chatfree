@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123838595671",
+    "firebase_url": "https://chatfree-d67c1.firebaseio.com",
+    "project_id": "chatfree-d67c1",
+    "storage_bucket": "chatfree-d67c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123838595671:android:fa86b9cdb404bb9b075912",
+        "android_client_info": {
+          "package_name": "co.capenexis.chatfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123838595671-74ohv9mtjojovtqkdq89mmkon4b3gdrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY4wEVmeb9eZCsQPMgGSgKGImJk3YTXDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123838595671-74ohv9mtjojovtqkdq89mmkon4b3gdrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
